@@ -1,0 +1,10 @@
+server:
+  port: 9096
+
+jwt:
+  secret: "294A404E635266556A586E327235753878214125442A472D4B6150645367566B"
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://sebastian:Sebas2515@microservice-report.2osey.mongodb.net/Report?retryWrites=true&w=majority
